@@ -1,0 +1,66 @@
+{
+    "name": "Scrapinghub",
+    "description": "Complete platform for turning web pages into useful data!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2509-scrapinghub.jpg",
+    "tags": [
+        "have api",
+        "scraping",
+        "scraping tools",
+        "scraping web crawler"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/scrapinghub\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Scrapinghub",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2509-scrapinghub.jpg",
+            "humanURL": "http:\/\/scrapinghub.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/scrapinghub-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.scrapinghub.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.scrapinghub.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/scrapinghub"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/scrapinghub"
+        },
+        {
+            "type": "Email",
+            "url": "legal@scrapinghub.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/scrapinghub"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ScrapingHub"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/scrapinghub.com\/"
+        }
+    ]
+}
